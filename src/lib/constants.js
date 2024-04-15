@@ -14,8 +14,8 @@ import {
 export const PROFILES = {
   twitter: {
     title: 'X (Twitter)',
-    username: 'onurschu',
-    url: 'https://twitter.com/intent/user?screen_name=onurschu',
+    username: 'keysbui',
+    url: 'https://twitter.com/intent/user?screen_name=keysbui',
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -37,43 +37,43 @@ export const PROFILES = {
   },
   github: {
     title: 'GitHub',
-    url: 'https://github.com/suyalcinkaya',
+    url: 'https://github.com/keysbui',
     icon: <GithubIcon size={16} />
   },
   linkedin: {
     title: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/suyalcinkaya',
+    url: 'https://www.linkedin.com/in/keysbui',
     icon: <LinkedinIcon size={16} />
   },
   medium: {
     title: 'Medium',
-    url: 'https://suyalcinkaya.medium.com'
+    url: 'https://keysbui.medium.com'
   },
   instagram: {
     title: 'Instagram',
-    url: 'https://www.instagram.com/jgrmn',
+    url: 'https://www.instagram.com/keysbui',
     icon: <InstagramIcon size={16} />
   },
   soundcloud: {
     title: 'Soundcloud',
-    url: 'https://soundcloud.com/jagerman'
+    url: 'https://soundcloud.com/keysbui'
   },
   youtube: {
     title: 'YouTube',
-    url: 'https://www.youtube.com/c/jagermanmusic',
+    url: 'https://www.youtube.com/c/keysbui',
     icon: <YoutubeIcon size={16} />
   },
   bluesky: {
     title: 'Bluesky',
-    url: 'https://staging.bsky.app/profile/onur.dev'
+    url: 'https://staging.bsky.app/profile/keysbui'
   },
   readcv: {
     title: 'Read.cv',
-    url: 'https://read.cv/onur'
+    url: 'https://read.cv/keysbui'
   },
   pinterest: {
     title: 'Pinterest',
-    url: 'https://nl.pinterest.com/onurschu'
+    url: 'https://nl.pinterest.com/keysbui'
   }
 }
 
